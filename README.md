@@ -1,6 +1,6 @@
 # Digital-Sofia
 
-[Digital Sofia](https://twitter.com/@digitalsofia) is a Twitter bot built on node.js and developed by [Debashis Barman](https://twitter.com/@DebashisBarman). Digital Sofia tweets #WordOfTheDay and retweets #technology and #design things. Digital Sofia can also interact with her followers.
+[Digital Sofia](https://twitter.com/@digitalsofia) is a Twitter bot built on [Node.js](https://nodejs.org/en/) and developed by [Debashis Barman](https://twitter.com/@DebashisBarman). Digital Sofia tweets #WordOfTheDay and retweets #technology and #design things. Digital Sofia can also interact with her followers.
 
 ## Dependencies
 

@@ -2,6 +2,7 @@
  * Digital Sofia 1.0.2 (http://www.debashisbarman.in/Digital-Sofia)
  * Created by Debashis Barman (http://www.debashisbarman.in)
  * Licensed under http://creativecommons.org/licenses/by-sa/3.0
+ * Updated on 23 November, 2015
  */
 
 var Twit = require('twit');
