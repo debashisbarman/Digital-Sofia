@@ -26,7 +26,7 @@ var wordnik = {
 	minLength: 5,
 	maxLength: -1,
 	limit: 2,
-	api_key: "bcfa8705c0c8020bf5628a433290158a307a01f196fd69145"
+	api_key: ""
 };
 
 client = new Client();
