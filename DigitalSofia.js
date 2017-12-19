@@ -8,10 +8,10 @@
 var Twit = require('twit');
 
 var Sofia = new Twit({
-	consumer_key: 'ZscsM5NR4IlEpC2tF73qzyUFN',
-	consumer_secret: 'Mml7W3lxFQ2rnIY75zq5DCuwnxsN4R6TDVdOC65TEUgEG43X9s',
-	access_token: '4313023152-4BEFmk7D3zTBV7Qt4B1UEz1tQYwtxRqi3OAvYgw', 
-	access_token_secret: '4odlLpBsCodxDEC6rXFe61dO2Q0sR4yyJSqBJ5TYczhOY'
+	consumer_key: '',
+	consumer_secret: '',
+	access_token: '', 
+	access_token_secret: ''
 });
 
 var Client = require('node-rest-client').Client;
